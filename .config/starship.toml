@@ -64,5 +64,5 @@ format = '[[ 󱑍 $time ](bg:#1C3A5E fg:#8DFBD2)]($style)'
 
 [kubernetes]
 format = '[ ☸ $cluster \($namespace\) ]($style)'
-disabled = false
+disabled = true
 style = "bg:#1C3A5E fg:#FCE94F"
